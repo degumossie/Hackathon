@@ -1,4 +1,3 @@
-# Unesco-India-Africa-Hackathon 2022
 # Cardiomegaly Detection (Chest X-Ray AI)- Unesco-India-Africa-Hackathon-2022
 
 AI-based medical image classification system using CNN.
@@ -32,3 +31,4 @@ python app.py
 - Rutvij Joshi | India
 - Motlashi Nthako | Lesetho
 - Simplicio | Sudan
+
